@@ -5,10 +5,10 @@ math = int(input("Maths: "))
 science = int(input("Science: "))
 english = int(input("English: "))
 social = int(input("Social: "))
-Nepali = int(input("Nepali: "))
+nepali = int(input("nepali: "))
 
 # lets calculate the percentage of marks
-sum = math + science + english + social + Nepali
+sum = math + science + english + social + nepali
 print("Sum of Maths, Science, English, Social and Nepali is", sum)
 
 
